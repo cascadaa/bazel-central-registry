@@ -12,7 +12,8 @@
         "https://mirror.bazel.build/chromium.googlesource.com/libyuv/libyuv/"
     ],
     "versions": [
-        "1787"
+        "1787",
+        "1948"
     ],
     "yanked_versions": {}
 }

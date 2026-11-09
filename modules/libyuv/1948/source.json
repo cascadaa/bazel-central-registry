@@ -1,0 +1,13 @@
+{
+    "url": "https://mirror.bazel.build/chromium.googlesource.com/libyuv/libyuv/+archive/d23308a2a7442be8e559b1b471862fd7588d6a57.tar.gz",
+    "integrity": "sha256-g9QUcVM3ek3/PiFRjxU+ZtGvQ89EShdbSLo1Dao/pTM=",
+    "strip_prefix": "",
+    "overlay": {
+        ".bazelignore": "sha256-MM7Mu4itduU3ocXg/ljfzmY2JL3YK9ds7A3Tsql68uU=",
+        "BUILD.bazel": "sha256-jshqZy31YsKfcWTnd8eBbPuwST81tkep3vrNHpXef1I=",
+        "MODULE.bazel": "sha256-+DlvwGs0xAe/f4MCr2iYnTjqkK43HFaIkMEELkeOmwQ=",
+        "unit_test/BUILD.bazel": "sha256-J6MyokIeU/luA/6fMXhZkD59wUa2T3VCJKbILqECjgk=",
+        "unit_test/MODULE.bazel": "sha256-UWrvyON0pLst7QU2jrN5PNDP3bGVZpDXvsieF2FMUhU=",
+        "unit_test/unit_test/unit_test.h": "sha256-cdb5+VhyUBfr4YrTZ2Z5xZ+eV7Xa5OMxuLE5nUMraDA="
+    }
+}
